@@ -5,3 +5,7 @@ I appreciate any feedback or suggestions to help me improve both these tools and
 Don’t hesitate to leave comments or open issues!
 
 Thank you for stopping by.
+
+
+Important Disclaimer and Ethical Considerations:
+These scripts are provided strictly for educational purposes, authorized penetration testing, and cybersecurity research.
